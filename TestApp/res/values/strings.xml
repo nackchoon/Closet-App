@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TabMenu!</string>
+    <string name="app_name">TestApp</string>
+    <string name="shirt">This is a shirt</string>
+    <string name="name">Name of the Clothing</string>
+    
+</resources>
